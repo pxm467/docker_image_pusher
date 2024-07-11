@@ -1,3 +1,10 @@
 
 rancher/calico-cni:v3.26.3-rancher1
 rancher/mirrored-calico-node:v3.26.3
+rancher/mirrored-calico-kube-controllers:v3.26.3
+rancher/mirrored-flannel-flannel:v0.21.4
+rancher/mirrored-calico-pod2daemon-flexvol:v3.26.3
+rancher/mirrored-pause:3.7
+rancher/flannel-cni:v0.3.0-rancher8
+rancher/mirrored-flannel-flannel:v0.21.4
+
