@@ -9,3 +9,4 @@ rancher/flannel-cni:v0.3.0-rancher8
 rancher/mirrored-flannel-flannel:v0.21.4
 rancher/shell:v0.1.24
 nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.3.3
